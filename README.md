@@ -6,9 +6,9 @@
 I am a recent graduate in Computer Science (Information System) with passion for Cybersecurity and digital transformation. 
 
 🔍 About Me
-📜 Certified in Cybersecurity: I hold a Google Career Certificate in Cybersecurity and CompTIA Cloud Essentials.
-💼 Aspiring Security Analyst: I am actively exploring roles in cybersecurity, including SOC Analyst and Information Security Analyst positions.
-🌱 Ongoing Learning: Currently learning about forensic cases, security frameworks, SIEM tools, and best practices in data protection.
+- 📜 Certified in Cybersecurity: I hold a Google Career Certificate in Cybersecurity and CompTIA Cloud Essentials.
+- 💼 Aspiring Security Analyst: I am actively exploring roles in cybersecurity, including SOC Analyst and Information Security Analyst positions.
+- 🌱 Ongoing Learning: Currently learning about forensic cases, security frameworks, SIEM tools, and best practices in data protection.
 
 🔧 Skills and Tools
 - Programming: HTML/CSS, PHP
